@@ -61,4 +61,4 @@ Flutter offers a fast development cycle with Stateful Hot Reload, the ability to
 - Save your changes: invoke Save All, or click Hot Reload
 
 ## CodeLab
-- Test drive with [CodeLab tutorial](https://codelabs.developers.google.com/codelabs/flutter-codelab-first#0)
+- Test drive with [CodeLab Tutorial](https://codelabs.developers.google.com/codelabs/flutter-codelab-first#0)
